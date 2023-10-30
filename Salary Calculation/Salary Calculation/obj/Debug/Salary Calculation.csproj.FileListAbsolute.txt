@@ -1,0 +1,10 @@
+C:\Users\Ali Zaib Rana\source\repos\Salary Calculation\Salary Calculation\bin\Debug\Salary Calculation.exe.config
+C:\Users\Ali Zaib Rana\source\repos\Salary Calculation\Salary Calculation\bin\Debug\Salary Calculation.exe
+C:\Users\Ali Zaib Rana\source\repos\Salary Calculation\Salary Calculation\bin\Debug\Salary Calculation.pdb
+C:\Users\Ali Zaib Rana\source\repos\Salary Calculation\Salary Calculation\obj\Debug\Salary Calculation.csproj.AssemblyReference.cache
+C:\Users\Ali Zaib Rana\source\repos\Salary Calculation\Salary Calculation\obj\Debug\Salary_Calculation.Form1.resources
+C:\Users\Ali Zaib Rana\source\repos\Salary Calculation\Salary Calculation\obj\Debug\Salary_Calculation.Properties.Resources.resources
+C:\Users\Ali Zaib Rana\source\repos\Salary Calculation\Salary Calculation\obj\Debug\Salary Calculation.csproj.GenerateResource.cache
+C:\Users\Ali Zaib Rana\source\repos\Salary Calculation\Salary Calculation\obj\Debug\Salary Calculation.csproj.CoreCompileInputs.cache
+C:\Users\Ali Zaib Rana\source\repos\Salary Calculation\Salary Calculation\obj\Debug\Salary Calculation.exe
+C:\Users\Ali Zaib Rana\source\repos\Salary Calculation\Salary Calculation\obj\Debug\Salary Calculation.pdb
